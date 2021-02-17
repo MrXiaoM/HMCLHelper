@@ -1,7 +1,7 @@
 # Hello Minecraft! Launcher [![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://ci.huangyuhui.net/job/HMCL)
 
 ## 修改版介绍
-啊这… 也没改多少，就改了一点点，主要改动在主分支了，次要改动也就改了下程序版本号 (at ./HMCL/build.gradle)  
+啊这… 也没改多少，就改了一点点，主要改动说明丢在主分支了，次要改动也就改了下程序版本号 (at ./HMCL/build.gradle)  
 因为我不知道怎么改 BUILD_NUMBER 直接就改 : 后面的内容了 xwx  
 这个版本移除了 HMCL 的微软登录浏览器页面，改为了手动传参进行微软登录  
 先选择微软登录，然后用 releases 里那个软件进行登录，把 code 填进用户名里  
