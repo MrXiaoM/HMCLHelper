@@ -1,0 +1,41 @@
+*.class
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gradle
+
+*.lck
+*.1
+*.2
+*.log
+.mine*
+NVIDIA
+*.json
+
+# gradle build
+/build/
+/HMCL/build/
+/HMCLCore/build/
+/HMCLTransformerDiscoveryService/build/
+
+# idea
+.idea
+/out/
+/HMCL/out/
+/HMCLCore/out/
+/HMCLTransformerDiscoveryService/out/
+
+# eclipse
+/bin/
+/HMCL/bin/
+/HMCLCore/bin/
+/HMCLTransformerDiscoveryService/bin/
+.classpath
+.project
+.settings
+
+# netbeans
+.nb-gradle
+
+*.exe
