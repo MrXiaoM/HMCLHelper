@@ -1,0 +1,8 @@
+E:\luoyi\Projects\dotnet\cwber\output\WinFormDemo.exe
+E:\luoyi\Projects\dotnet\cwber\output\WinFormDemo.pdb
+E:\luoyi\Projects\dotnet\cwber\WinFormDemo\obj\Release\WinFormDemo.csprojResolveAssemblyReference.cache
+E:\luoyi\Projects\dotnet\cwber\WinFormDemo\obj\Release\WinFormDemo.Form1.resources
+E:\luoyi\Projects\dotnet\cwber\WinFormDemo\obj\Release\WinFormDemo.Properties.Resources.resources
+E:\luoyi\Projects\dotnet\cwber\WinFormDemo\obj\Release\WinFormDemo.csproj.GenerateResource.Cache
+E:\luoyi\Projects\dotnet\cwber\WinFormDemo\obj\Release\WinFormDemo.exe
+E:\luoyi\Projects\dotnet\cwber\WinFormDemo\obj\Release\WinFormDemo.pdb

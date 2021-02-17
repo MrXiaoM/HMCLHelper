@@ -1,0 +1,6 @@
+E:\luoyi\Projects\dotnet\cef3.1846\Xilium.CefGlue-master\Xilium.CefGlue-master\CefGlue\bin\Debug\Xilium.CefGlue.xml
+E:\luoyi\Projects\dotnet\cef3.1846\Xilium.CefGlue-master\Xilium.CefGlue-master\CefGlue\bin\Debug\Xilium.CefGlue.dll
+E:\luoyi\Projects\dotnet\cef3.1846\Xilium.CefGlue-master\Xilium.CefGlue-master\CefGlue\bin\Debug\Xilium.CefGlue.pdb
+E:\luoyi\Projects\dotnet\cef3.1846\Xilium.CefGlue-master\Xilium.CefGlue-master\CefGlue\obj\Debug\CefGlue.csprojResolveAssemblyReference.cache
+E:\luoyi\Projects\dotnet\cef3.1846\Xilium.CefGlue-master\Xilium.CefGlue-master\CefGlue\obj\Debug\Xilium.CefGlue.dll
+E:\luoyi\Projects\dotnet\cef3.1846\Xilium.CefGlue-master\Xilium.CefGlue-master\CefGlue\obj\Debug\Xilium.CefGlue.pdb

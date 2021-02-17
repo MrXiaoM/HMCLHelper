@@ -1,0 +1,5 @@
+E:\luoyi\Projects\dotnet\cwber\output\cwber.dll
+E:\luoyi\Projects\dotnet\cwber\output\cwber.pdb
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Release\cwber.csprojResolveAssemblyReference.cache
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Release\cwber.dll
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Release\cwber.pdb
