@@ -8,6 +8,10 @@
 ~~因为懒~~因为技术力低，目前传参的输入框显示的还是“用户名”，但不影响操作  
 实测可登录、获取皮肤、进入Hypixel  
 
+## 微软登录直链
+
+[click here](https://login.live.com/oauth20_authorize.srf?client_id=00000000402b5328&response_type=code&scope=service%3A%3Auser.auth.xboxlive.com%3A%3AMBI_SSL&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf)
+
 ## 修改HMCL
 
 仓库地址: [https://github.com/huanghongxun/HMCL](https://github.com/huanghongxun/HMCL)
