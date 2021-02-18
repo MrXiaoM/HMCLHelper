@@ -10,7 +10,9 @@
 
 ## 微软登录直链
 
-[click here](https://login.live.com/oauth20_authorize.srf?client_id=00000000402b5328&response_type=code&scope=service%3A%3Auser.auth.xboxlive.com%3A%3AMBI_SSL&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf)
+[click here](https://login.live.com/oauth20_authorize.srf?client_id=00000000402b5328&response_type=code&scope=service%3A%3Auser.auth.xboxlive.com%3A%3AMBI_SSL&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf)  
+如果你的浏览器已经登录过微软账号了，会直接转跳到空白页  
+空白页的网址中的参数 code 就是**原理**中需要的参数
 
 ## 修改HMCL
 
