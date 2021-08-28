@@ -1,6 +1,10 @@
 # HMCLHelper
 硬核解决HMCL微软登录白屏问题
 
+# @Deprecation
+最新版的 HMCL 已经修复了这一问题，请到 [官方构建站](http://ci.huangyuhui.net/job/HMCL/) 下载 HMCL 开发版  
+**不要使用本页面这一过期方法**
+
 ## 原理
 修改HMCL的代码，让HMCL无法使用它自身的浏览器进行微软登录，而要传参进去  
 然后写一个自动处理网页操作的浏览器，让用户登录并获取需要的参数  
